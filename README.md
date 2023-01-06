@@ -1,4 +1,4 @@
-# HHTasksGeometryApp
+# GeometryApp
 
 Техническое задание:
 
